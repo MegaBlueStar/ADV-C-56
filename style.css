@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    border: 5px;
+    border-style: solid;
+    border-color: darkorchid;
+    font-family: Verdana;
+    font-variant: small-caps;
+} 
+    
+h1{
+    background-color: fuchsia;
+    color: darkorange;
+}
+
+
+p{
+    color: chocolate;
+    font-size: 20px;
+}
